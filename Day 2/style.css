@@ -1,0 +1,35 @@
+#container{
+    text-align: center;
+    background-color: #eaeaea;
+    padding: 60px 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px gray;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background-color: #eeeeee;
+}
+button{
+    padding: 9px 20px;
+    margin: 0 6px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(48, 142, 224);
+}
+h2{
+    margin: 10px;
+    font-size: 150px;
+    color: rgb(6, 84, 152);
+}
+h1{
+    margin: 0;
+    color: rgb(48, 142, 224);
+}
+#container2{
+    margin: 0;
+}
